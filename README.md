@@ -1,2 +1,2 @@
-# progressively-dual-prior-guided-few-shot-semantic-segmenation
-codes for progressive dual prior guided few-shot semantic segmenation
+# progressively-dual-prior-guided-few-shot-semantic-segmentation
+codes for progressive dual prior guided few-shot semantic segmentation
