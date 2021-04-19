@@ -15,3 +15,4 @@ Codes for progressive dual prior guided few-shot semantic segmentation, and the 
 ### Datasets and Data Preparation
 
 We follow the dataset setting in **PMMs**: https://github.com/Yang-Bob/PMMs. 
+The pretrained [**model**](https://pan.baidu.com/s/1qn_AhDbV5Q5XM-PpuKrNqQ) in **VOC_split0_1-shot** is provided as a sample. (Password:yd11)
