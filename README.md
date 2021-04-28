@@ -3,12 +3,12 @@ Codes for progressive dual prior guided few-shot semantic segmentation, and the 
 
 the overall network:
 <p align="left">
-<img src="img/chain10.png" alt="the overall network" width="900px">
+<img src="img/chain10.png" alt="the overall network" width="600px">
 </p>
 some visualization results:
 the overall network:
 <p align="left">
-<img src="img/result7.png" alt="the results" width="900px">
+<img src="img/result7.png" alt="the results" width="800px">
 </p>
 
 # Get Started
