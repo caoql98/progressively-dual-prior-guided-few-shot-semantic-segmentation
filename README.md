@@ -8,7 +8,7 @@ the overall network:
 some visualization results:
 the overall network:
 <p align="left">
-<img src="img/results10.png" alt="the results" width="900px">
+<img src="img/result7.png" alt="the results" width="900px">
 </p>
 
 # Get Started
