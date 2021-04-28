@@ -2,7 +2,7 @@
 Codes for progressive dual prior guided few-shot semantic segmentation, and the work is submitted in **ICCV2021**
 
 <p align="left">
-<img src="img/chain10.jpg" alt="the overall network" width="900px">
+<img src="img/chain10.png" alt="the overall network" width="900px">
 </p>
 # Get Started
 
