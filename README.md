@@ -1,5 +1,5 @@
 # Progressively-Dual-Prior-Guided-Few-shot-Semantic-Segmentation
-Codes for progressive dual prior guided few-shot semantic segmentation, and the work is submitted in **ICCV2021**
+Codes for progressive dual prior guided few-shot semantic segmentation.
 
 the overall network:
 <p align="left">
